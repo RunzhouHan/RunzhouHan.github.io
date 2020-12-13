@@ -1,0 +1,26 @@
+br {
+  content: "";
+  margin: 2em;
+  display: block;
+  font-size: 24%;
+}
+
+p {
+  margin: 0.5em;
+
+}
+
+.paragraph{
+	font-size: 16px;
+}
+
+.section{
+	color: green;
+}
+
+.tab{ margin-left: 40px;
+}
+
+
+
+
